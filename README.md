@@ -18,3 +18,4 @@ Road traffic crashes represent a major public safety and public health concern i
 The primary objective of this exploratory data analysis (EDA) is to analyse and identify trends, patterns, and key insights related to road traffic crashes across Nigeria’s states and quarters. Specifically, this analysis seeks to uncover temporal trends, evaluate state-by-state crash risks, and assess the impact of contributing factors on the severity of outcomes such as injuries and fatalities. By deriving data-driven insights, this study aims to support the FRSC in developing targeted road safety policies, prioritizing high-risk regions, and implementing evidence-based interventions to reduce crash rates and save lives.
 
 ## Dataset
+[Dataset](https://www.kaggle.com/datasets/akinniyiakinwande/nigerian-traffic-crashes-2020-2024)
