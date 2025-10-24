@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Repo Size">
   <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Last Commit">
   <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Issues">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Python-yellow?logo=python" alt="Data Visualization: Python">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20|%20Seaborn%20|%20Folium-green?logo=python" alt="Data Visualization: Matplotlib, Seaborn, Folium">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Version Control: Git">
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024?style=social" alt="Forks">
