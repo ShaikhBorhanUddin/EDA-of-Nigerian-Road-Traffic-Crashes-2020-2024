@@ -2,10 +2,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Made%20With-Colab-blue?logo=googlecolab&logoColor=white&label=Made%20With" alt="Made with Colab">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-  <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Repo Size">
-  <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Last Commit">
-  <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Issues">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20|%20Seaborn%20|%20Folium-green?logo=python" alt="Data Visualization: Matplotlib, Seaborn, Folium">
+  <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024?color=blue" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024?color=brightgreen" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024?color=red" alt="Issues">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20|%20Seaborn%20|%20Folium-yellow?logo=python" alt="Data Visualization: Matplotlib, Seaborn, Folium">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Version Control: Git">
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024?style=social" alt="Forks">
