@@ -39,18 +39,17 @@ The [Dataset](https://www.kaggle.com/datasets/akinniyiakinwande/nigerian-traffic
 
 The primary objective of this analysis is to explore and interpret road traffic crash data in Nigeria from 2020 to 2024 to uncover meaningful trends, identify high-risk locations, and understand the factors contributing to severe crash outcomes. Specifically, the analysis seeks to address the following key questions:
 
-
 1. State-by-State Risk Assessment: 
 Which states consistently record the highest numbers of crashes, injuries, and fatalities, and which regions pose the greatest risk based on recurring crash patterns?
-
 
 2. Trend Analysis by Quarter and Year: 
 How do crash frequencies, injury counts, and fatality rates change across different quarters and years? Are there seasonal or temporal peaks that indicate periods of elevated road-safety risk?
 
-
 3. Impact of Crash Factors: 
 How do contributing factors such as vehicle involvement, speed violations, alcohol/drug influence, poor weather, and fatigue relate to the severity of crashes? Which factors are most strongly associated with higher injury and fatality rates?
 
+These objectives will guide the exploratory analysis and support the FRSC in developing data-driven road-safety strategies and targeted intervention measures. 
 
-These objectives will guide the exploratory analysis and support the FRSC in developing data-driven road-safety strategies and targeted intervention measures.
-Project is ongoing.
+## 📊 Key Questions Answered 
+
+
