@@ -17,6 +17,22 @@
 Road traffic crashes represent a major public safety and public health concern in Nigeria, resulting in thousands of injuries and fatalities each year. Despite continuous efforts by the Federal Road Safety Commission (FRSC) to improve road safety, the persistence of these incidents highlights the need for a deeper understanding of their underlying causes and patterns. The FRSC has compiled detailed quarterly crash data covering the period from 2020 to 2024, encompassing critical variables such as the number of crashes, injuries, fatalities, vehicles involved, and key contributing factors — including speed violations, driver impairment, poor weather conditions, and fatigue.
 The primary objective of this exploratory data analysis (EDA) is to analyse and identify trends, patterns, and key insights related to road traffic crashes across Nigeria’s states and quarters. Specifically, this analysis seeks to uncover temporal trends, evaluate state-by-state crash risks, and assess the impact of contributing factors on the severity of outcomes such as injuries and fatalities. By deriving data-driven insights, this study aims to support the FRSC in developing targeted road safety policies, prioritizing high-risk regions, and implementing evidence-based interventions to reduce crash rates and save lives.
 
-## Dataset
-The [Dataset](https://www.kaggle.com/datasets/akinniyiakinwande/nigerian-traffic-crashes-2020-2024) is sourced from Kaggle.
+## Dataset 
+
+The [Dataset](https://www.kaggle.com/datasets/akinniyiakinwande/nigerian-traffic-crashes-2020-2024) is sourced from Kaggle. It provides a comprehensive overview of road traffic crashes across Nigeria from Q4 2020 to Q1 2024. It also captures quarterly records on crash counts, injuries, fatalities, and the number of vehicles involved, along with major contributing factors such as speeding, impaired driving, poor weather, and driver fatigue. Collected from official traffic reports, the dataset offers valuable insights into the conditions and behaviors influencing road safety nationwide. A brief outline of the dataset columns are given in the following table. 
+
+| Column                    | Description                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| `Quarter`                 | The quarter in which the crash data was recorded (e.g., Q4 2020, Q1 2021).   |
+| `State`                   | The Nigerian state where the traffic crashes occurred.                       |
+| `Total Crashes`           | The total number of road-traffic crashes reported in that quarter and state. |
+| `Number Injured`          | The total number of individuals injured in the reported crashes.             |
+| `Number Killed`           | The total number of fatalities resulting from the crashes.                   |
+| `Total Vehicles Involved` | The total number of vehicles involved in the reported crashes.               |
+| `SPV`                     | Number of crashes attributed to Speed Violations.                            |
+| `DAD`                     | Number of crashes where Driving under Alcohol/Drug influence was a factor.   |
+| `PWR`                     | Number of crashes attributed to Poor Weather conditions.                     |
+| `FTQ`                     | Number of crashes attributed to Driver Fatigue.                              |
+| `Other_Factors`           | Number of crashes by any other factors.                                      |
+
 Project is ongoing.
