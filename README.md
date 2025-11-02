@@ -105,8 +105,8 @@ Based on the correlation heatmap, the severity of crashes (measured by fatalitie
   <img src="Images/normalized_quarterly_trend.png" alt="Normalized Quarterly Trend" width="55%" />
 </p> 
 
-![Dashboard](
-![Dashboard](
+![Dashboard](https://github.com/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024/blob/main/Images/pairplot.png?raw=true) 
+
 
 
 
