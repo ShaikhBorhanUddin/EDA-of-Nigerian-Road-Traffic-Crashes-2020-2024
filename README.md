@@ -51,6 +51,12 @@ How do contributing factors such as vehicle involvement, speed violations, alcoh
 
 These objectives will guide the exploratory analysis and support the FRSC in developing data-driven road-safety strategies and targeted intervention measures. 
 
-## 📊 Key Questions Answered 
+##  Key Questions Answered 
+
+**State by State Risk Assessment** 
+
+The following maps and charts illustrate the Top 10 states in Nigeria by total road traffic crashes, fatalities, and injuries between 2020 and 2024, offering both a visual geographic distribution and a comparative ranking of regions most affected by road safety incidents during the five-year period. 
+
+
 
 
