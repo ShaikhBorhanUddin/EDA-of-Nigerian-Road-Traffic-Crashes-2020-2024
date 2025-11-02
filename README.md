@@ -85,8 +85,8 @@ Overall, Kaduna, Ogun, FCT, and Nasarawa pose the greatest road safety risks, co
 An examination of road traffic crashes in Nigeria from Q4 2020 to Q1 2024 shows noticeable fluctuations in crash frequency, injuries, and fatalities across quarters and years. Overall, the data indicates a declining trend in total crashes and injuries toward the later quarters, though fatalities remain relatively high, suggesting that while the number of incidents may have decreased, crash severity has not reduced proportionally. Quarterly patterns reveal that crashes and injuries often peak during Q4 (October–December), aligning with increased travel activities during the festive season when road usage typically surges. In contrast, Q2 (April–June) quarters tend to record relatively lower figures, likely due to fewer intercity movements and more stable weather conditions. 
 
 <p align="center">
-  <img src="Images/yearly_trend.png" alt="Yearly Trend" width="57%" />
-  <img src="Images/quarterly_trend.png" alt="Quarterly Trend" width="42%" />
+  <img src="Images/yearly_trend.png" alt="Yearly Trend" width="49%" />
+  <img src="Images/quarterly_trend.png" alt="Quarterly Trend" width="49%" />
 </p> 
 
 
