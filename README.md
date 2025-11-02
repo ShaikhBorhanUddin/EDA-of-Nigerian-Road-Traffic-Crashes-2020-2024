@@ -53,7 +53,7 @@ These objectives will guide the exploratory analysis and support the FRSC in dev
 
 ##  Key Questions Answered 
 
-**State by State Risk Assessment** 
+### State by State Risk Assessment
 
 The following maps and charts illustrate the Top 10 states in Nigeria by total road traffic crashes, fatalities, and injuries between 2020 and 2024, offering both a visual geographic distribution and a comparative ranking of regions most affected by road safety incidents during the five-year period. 
 
@@ -80,7 +80,7 @@ The pattern of road traffic injuries also highlights Kaduna as the most affected
 
 Overall, Kaduna, Ogun, FCT, and Nasarawa pose the greatest road safety risks, consistently appearing across the top categories for crashes, injuries, and fatalities. These trends suggest that targeted interventions—such as improved road infrastructure, stricter enforcement of traffic laws, and enhanced emergency response capacity—are urgently needed in these states to curb the recurring pattern of road traffic incidents. 
 
-**Trend Analysis by Quarterly and Year** 
+### Trend Analysis by Quarterly and Year 
 
 An examination of road traffic crashes in Nigeria from Q4 2020 to Q1 2024 shows noticeable fluctuations in crash frequency, injuries, and fatalities across quarters and years. Overall, the data indicates a declining trend in total crashes and injuries toward the later quarters, though fatalities remain relatively high, suggesting that while the number of incidents may have decreased, crash severity has not reduced proportionally. Quarterly patterns reveal that crashes and injuries often peak during Q4 (October–December), aligning with increased travel activities during the festive season when road usage typically surges. In contrast, Q2 (April–June) quarters tend to record relatively lower figures, likely due to fewer intercity movements and more stable weather conditions. 
 
@@ -92,6 +92,15 @@ An examination of road traffic crashes in Nigeria from Q4 2020 to Q1 2024 shows 
 From a yearly perspective, 2021 recorded the highest overall crash and injury counts, reflecting the post-pandemic resumption of travel and economic activities. Subsequent years (2022 and 2023) show a modest decline, possibly due to enhanced FRSC enforcement, public awareness campaigns, and improved road safety measures. However, the fatality rate has not decreased at the same rate, implying that speeding and poor road conditions continue to contribute to severe crash outcomes. 
 
 In summary, the trend analysis highlights seasonal peaks in Q4 each year and a gradual downward trajectory in crash counts over time. The FRSC should therefore maintain heightened enforcement during high-risk quarters and intensify preventive campaigns during the pre-festive period to mitigate the recurring surge in crashes and fatalities. 
+
+### Impact of Crash Factors 
+
+Based on the correlation heatmap, the severity of crashes (measured by fatalities and injuries) shows the strongest positive correlations with Total_Crashes, Num_Injured, and Num_Killed, suggesting that areas with more crashes tend to experience proportionally higher casualties. Among the specific contributing factors, SPV (Speed Violation), FTQ (Fatigue), and Other_Factors exhibit moderate correlations with crash severity, implying that these may have a measurable influence on crash outcomes. Conversely, DAD (Driving while drunk) and PWR (Poor Weather or Road conditions) show weaker correlations, indicating that while they may contribute to crashes, they are not dominant predictors of severity. 
+
+<p align="left">
+  <img src="Images/heatmap.png" alt="Heatmap" width="55%" />
+</p> 
+
 
 
 
