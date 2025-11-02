@@ -20,7 +20,7 @@ The primary objective of this exploratory data analysis (EDA) is to analyse and 
 
 ## Dataset 
 
-The [Dataset](https://www.kaggle.com/datasets/akinniyiakinwande/nigerian-traffic-crashes-2020-2024) is sourced from Kaggle. It provides a comprehensive overview of road traffic crashes across Nigeria from Q4 2020 to Q1 2024. It also captures quarterly records on crash counts, injuries, fatalities, and the number of vehicles involved, along with major contributing factors such as speeding, impaired driving, poor weather, and driver fatigue. Collected from official traffic reports, the dataset offers valuable insights into the conditions and behaviors influencing road safety nationwide. There are no missing values in any columns. A brief outline of the dataset columns are given in the following table. 
+The [Dataset](https://www.kaggle.com/datasets/akinniyiakinwande/nigerian-traffic-crashes-2020-2024) is sourced from Kaggle. It provides a comprehensive overview of road traffic crashes across Nigeria from Q4 2020 to Q1 2024. It also captures quarterly records on crash counts, injuries, fatalities, and the number of vehicles involved, along with major contributing factors such as speeding, impaired driving, poor weather, and driver fatigue. Collected from Nigerian official traffic reports, the dataset offers valuable insights into the conditions and behaviors influencing road safety nationwide. There are no missing values in any columns. A brief outline of the dataset columns are given in the following table. 
 
 | Column                    | Description                                                                  |
 | ------------------------- | ---------------------------------------------------------------------------- |
