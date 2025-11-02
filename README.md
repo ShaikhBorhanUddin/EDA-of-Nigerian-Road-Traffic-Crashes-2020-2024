@@ -65,15 +65,15 @@ The following maps and charts illustrate the Top 10 states in Nigeria by total r
 From the data visualizations, the Federal Capital Territory (FCT), Ogun, Nasarawa, and Kaduna consistently emerge among the top states with the highest total road traffic crashes between 2020 and 2024. The FCT leads significantly in total crashes (4,852), followed by Ogun (3,780) and Nasarawa (2,946). This trend suggests that these regions have high vehicular activity, possibly due to dense traffic networks, major highways, and increasing urbanization. High crash frequencies in these states indicate potential infrastructural and enforcement challenges, such as road congestion and poor traffic management systems. 
 
 <p align="center">
-  <img src="Images/top_10_states_traffic_fatalities.png" alt="Top 10 States Traffic Fatalities" width="57%" />
-  <img src="Images/map_fatalities.png" alt="Map Fatalities" width="42%" />
+  <img src="Images/top_10_states_traffic_fatalities.png" alt="Top 10 States Traffic Fatalities" width="57.5%" />
+  <img src="Images/map_fatality.png" alt="Map Fatalities" width="41.5%" />
 </p> 
 
 In terms of fatalities, Kaduna ranks the highest with 2,242 recorded deaths, followed by Ogun (1,400), Niger (1,356), and Bauchi (1,155). This indicates that crashes in these areas tend to be more severe and deadly. Kaduna’s simultaneous appearance in both the high-crash and high-fatality categories suggests a compounding safety concern where both the frequency and lethality of road incidents are elevated. Regions such as Niger and Bauchi, though lower in total crash counts, show relatively high fatality numbers, pointing to potentially dangerous road conditions or inadequate emergency response mechanisms. 
 
 <p align="center">
-  <img src="Images/top_10_states_traffic_injuries.png" alt="Top 10 States Traffic Injuries" width="57%" />
-  <img src="Images/map_injuries.png" alt="Map Injuries" width="42%" />
+  <img src="Images/top_10_states_traffic_injuries.png" alt="Top 10 States Traffic Injuries" width="57.7%" />
+  <img src="Images/map_injuries.png" alt="Map Injuries" width="41.5%" />
 </p> 
 
 The pattern of road traffic injuries also highlights Kaduna as the most affected state, recording 11,264 injuries, followed by the FCT (8,805) and Ogun (8,713). This reinforces the observation that Kaduna, FCT, and Ogun are persistent hotspots for both the frequency and severity of road accidents. Other states such as Nasarawa and Niger also feature prominently across all three metrics, indicating that road safety challenges in these regions are multifaceted and systemic.
