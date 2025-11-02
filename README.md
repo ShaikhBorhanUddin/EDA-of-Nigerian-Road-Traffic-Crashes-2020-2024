@@ -101,6 +101,11 @@ Based on the correlation heatmap, the severity of crashes (measured by fatalitie
   <img src="Images/heatmap.png" alt="Heatmap" width="55%" />
 </p> 
 
+<p align="left">
+  <img src="Images/normalized_quarterly_trend.png" alt="Normalized Quarterly Trend" width="55%" />
+</p> 
+
+
 
 
 
