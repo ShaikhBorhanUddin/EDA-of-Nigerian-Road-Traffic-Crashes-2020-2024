@@ -57,6 +57,11 @@ These objectives will guide the exploratory analysis and support the FRSC in dev
 
 The following maps and charts illustrate the Top 10 states in Nigeria by total road traffic crashes, fatalities, and injuries between 2020 and 2024, offering both a visual geographic distribution and a comparative ranking of regions most affected by road safety incidents during the five-year period. 
 
+<p align="center">
+  <img src="Images/top_10_states_traffic_crushes.png" alt="Top 10 States Traffic Crushes" width="57%" />
+  <img src="Images/map_crushes.png" alt="Map Crushes" width="42%" />
+</p> 
+
 From the data visualizations, the Federal Capital Territory (FCT), Ogun, Nasarawa, and Kaduna consistently emerge among the top states with the highest total road traffic crashes between 2020 and 2024. The FCT leads significantly in total crashes (4,852), followed by Ogun (3,780) and Nasarawa (2,946). This trend suggests that these regions have high vehicular activity, possibly due to dense traffic networks, major highways, and increasing urbanization. High crash frequencies in these states indicate potential infrastructural and enforcement challenges, such as road congestion and poor traffic management systems.
 
 In terms of fatalities, Kaduna ranks the highest with 2,242 recorded deaths, followed by Ogun (1,400), Niger (1,356), and Bauchi (1,155). This indicates that crashes in these areas tend to be more severe and deadly. Kaduna’s simultaneous appearance in both the high-crash and high-fatality categories suggests a compounding safety concern where both the frequency and lethality of road incidents are elevated. Regions such as Niger and Bauchi, though lower in total crash counts, show relatively high fatality numbers, pointing to potentially dangerous road conditions or inadequate emergency response mechanisms.
