@@ -53,7 +53,7 @@ These objectives will guide the exploratory analysis and support the FRSC in dev
 
 ## Methodology & Resources 
 
-This section provides access to the Python scripts as well as generated visualizations, and geospatial files (Nigeria states GeoJSON) used throughout the analysis. These resources contain the full data-cleaning process, exploratory analysis, visualization code, and mapping logic applied in the study. 
+This section provides access to the [Python scripts as well as generated visualizations](https://github.com/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024/blob/main/Notebooks/Nigerian_Traffic_Crash.ipynb), and geospatial files (Nigeria states GeoJSON) used throughout the analysis. These resources contain the full data-cleaning process, exploratory analysis, visualization code, and mapping logic applied in the study. 
 
 ##  Key Questions Answered 
 
