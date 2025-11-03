@@ -115,6 +115,10 @@ From the scatter plots comparing individual factors with Fatality Rate, all majo
 
 The exploratory analysis of Nigerian road traffic crashes from 2020 to 2024 reveals clear spatial, temporal, and causal patterns that can guide targeted safety interventions. FCT, Ogun, and Kaduna consistently emerged as high-risk states, showing persistently high crash frequencies and fatalities, while Niger, Bauchi, and Oyo also exhibited notable fatality rates, underscoring the need for region-specific safety strategies. Quarterly trends indicate recurring peaks in Q4, driven by festive-season travel surges, and a gradual overall decline in crash and injury rates over time—though fatalities have not decreased proportionally, suggesting persistent severity issues. Correlation and factor analyse further reveal that crash severity is strongly linked to the total number of crashes, while factors such as SPV, FTQ, and Other_Factors show moderate but consistent influence, implying that crash outcomes stem from a complex interplay of multiple causes rather than isolated factors. To effectively reduce both crash frequency and severity, the FRSC should adopt a data-driven, multi-pronged approach combining stricter enforcement, improved infrastructure, enhanced driver education, and strengthened emergency response systems, particularly in high-risk states and during high-travel periods. 
 
+## Technologies Used 
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `GeoPandas` `Choropleth` `Colab` `markdown` 
+
 
 
 
