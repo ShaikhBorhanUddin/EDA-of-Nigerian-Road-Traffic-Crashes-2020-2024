@@ -119,6 +119,12 @@ The exploratory analysis of Nigerian road traffic crashes from 2020 to 2024 reve
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `GeoPandas` `Choropleth` `Colab` `markdown` 
 
+Python served as the primary language for conducting all data analysis and visualization tasks, supported by Pandas for efficient data cleaning, transformation, and aggregation, and NumPy for handling numerical computations and dataset manipulation throughout the project. 
+
+Matplotlib was used to generate static plots and visualize trends, while Seaborn provided enhanced statistical graphics and improved styling. GeoPandas enabled geospatial analysis and mapping, and choropleth maps were created to visually represent state-level crash intensity across Nigeria. 
+
+Colab served as the interactive environment for analysis and documentation, while Markdown was used to structure project explanations and reporting for GitHub in a clear and organized manner. 
+
 
 
 
