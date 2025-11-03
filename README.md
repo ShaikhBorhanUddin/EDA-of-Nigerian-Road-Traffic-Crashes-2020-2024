@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20|%20Seaborn%20|%20GeoPandas%20|%20Choropleth-brightgreen?logo=python" alt="Data Visualization: Matplotlib, Seaborn, GeoPandas, Choropleth">
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024?style=social" alt="Forks">
-  <img src="https://img.shields.io/badge/Project-Ongoing-orange" alt="Project Status">
+  <img src="https://img.shields.io/badge/Project-Completed-brightgreen" alt="Project Status">
 </p> 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024/blob/main/Images/nig_1.png?raw=true) 
