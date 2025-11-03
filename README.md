@@ -125,6 +125,22 @@ Matplotlib was used to generate static plots and visualize trends, while Seaborn
 
 Colab served as the interactive environment for analysis and documentation, while Markdown was used to structure project explanations and reporting for GitHub in a clear and organized manner. 
 
+## Licence
+
+This project is licensed under the MIT License — a permissive open-source license that allows reuse, modification, and distribution with attribution. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, provided that the original copyright and license notice are included in all copies or substantial portions of the software.
+
+For more details, refer to the [Licence](https://github.com/ShaikhBorhanUddin/Customer-Sentiment-Analysis-in-Streatham-Area-Restaurants/blob/main/Licence) file in this repository.
+
+## Contact
+
+If you have any questions or would like to connect, feel free to reach out!
+
+**Shaikh Borhan Uddin**  
+📧 Email: [`shaikhborhanuddin@gmail.com`](mailto:shaikhborhanuddin@gmail.com)  
+🔗 [`LinkedIn`](https://www.linkedin.com/in/shaikh-borhan-uddin-905566253/)  
+🌐 [`Portfolio`](https://github.com/ShaikhBorhanUddin)
+
+Feel free to fork the repository, experiment with new models, datasets or add visualizations!
 
 
 
