@@ -121,7 +121,7 @@ The exploratory analysis of Nigerian road traffic crashes from 2020 to 2024 reve
 
 ## Technologies Used 
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `GeoPandas` `geoJSON` `Choropleth` `Colab` `markdown` 
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `GeoPandas` `geoJSON` `Choropleth` `Colab` `Markdown` 
 
 Python served as the primary language for conducting all data analysis and visualization tasks, supported by Pandas for efficient data cleaning, transformation, and aggregation, and NumPy for handling numerical computations and dataset manipulation throughout the project. 
 
