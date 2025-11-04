@@ -113,7 +113,7 @@ The quarterly trend analysis reinforces this observation by showing that Other_F
 
 From the scatter plots comparing individual factors with Fatality Rate, all major crash factors (SPV, DAD, PWR, FTQ, and Other_Factors) exhibit relatively weak or slightly negative trends, showing no strong linear relationship with fatalities. This suggests that while these factors influence crash occurrences, the severity of outcomes depends on complex interactions rather than any single variable. External elements like road safety enforcement, vehicle conditions, and post-crash response quality likely moderate these effects. Thus, interventions focusing on improving response systems, road infrastructure, and public awareness about high-risk driving behaviors may yield more significant reductions in fatality rates than targeting isolated crash factors alone. 
 
-![Dashboard](https://github.com/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024/blob/main/Images/pairplot.png?raw=true) 
+![Dashboard](https://github.com/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024/blob/main/Images/regplot.png?raw=true) 
 
 ## Key Takeaway 
 
